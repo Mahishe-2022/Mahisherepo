@@ -1,0 +1,13 @@
+so for stash
+
+
+use below commands:
+
+git stash push
+
+and to reopen stash files use:
+
+git stash pop
+
+it will show the latest stashed file
+
